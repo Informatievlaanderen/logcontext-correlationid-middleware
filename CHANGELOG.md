@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v2.2.1...v2.2.2) (2020-05-07)
+
+
+### Bug Fixes
+
+* move to GH-actions ([2abc486](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/commit/2abc48634eeee7bce653fd650df5c0b32cc650c9))
+
 ## [2.2.1](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v2.2.0...v2.2.1) (2020-03-02)
 
 
