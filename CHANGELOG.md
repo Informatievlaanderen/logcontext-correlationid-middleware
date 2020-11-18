@@ -1,3 +1,10 @@
+## [2.2.7](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v2.2.6...v2.2.7) (2020-11-18)
+
+
+### Bug Fixes
+
+* remove set-env usage in gh-actions ([f2a22ad](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/commit/f2a22adfcb062f2ab558feca28caa4585120555d))
+
 ## [2.2.6](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v2.2.5...v2.2.6) (2020-09-21)
 
 
