@@ -16,7 +16,7 @@ let nugetVersionNumber = (sprintf "%s")
 
 let buildSource = build assemblyVersionNumber
 let buildTest = buildTest assemblyVersionNumber
-let publish = publish assemblyVersionNumber
+let publishSource = publish assemblyVersionNumber
 let pack = packSolution nugetVersionNumber
 
 supportedRuntimeIdentifiers <- [ "linux-x64" ]
@@ -26,7 +26,7 @@ Target.create "Lib_Build" (fun _ ->
     buildSource "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext"
 )
 
-Target.create "Lib_Publish" (fun _ -> publish "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext")
+Target.create "Lib_Publish" (fun _ -> publishSource "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext")
 Target.create "Lib_Pack" (fun _ -> pack "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext")
 
 // --------------------------------------------------------------------------------
