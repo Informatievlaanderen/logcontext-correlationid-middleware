@@ -1,3 +1,10 @@
+## [2.2.11](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v2.2.10...v2.2.11) (2021-05-28)
+
+
+### Bug Fixes
+
+* move to 5.0.6 ([b037f5b](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/commit/b037f5b010bfd8a639c266a34769d05cbe4b3ce9))
+
 ## [2.2.10](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v2.2.9...v2.2.10) (2021-02-02)
 
 
