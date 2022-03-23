@@ -15,9 +15,9 @@ licenseUrl https://opensource.org/licenses/MIT
 description Middleware component which adds the correlation id to the Serilog LogContext.
 
 dependencies
-  framework: net5.0
+  framework: net6.0
     Serilog >= LOCKEDVERSION
 
 files
-  bin\Release\net5.0\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext.dll => lib\net5.0
-  bin\Release\net5.0\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext.pdb => lib\net5.0
+  bin\Release\net6.0\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext.dll => lib\net6.0
+  bin\Release\net6.0\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext.pdb => lib\net6.0
