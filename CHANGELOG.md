@@ -1,3 +1,20 @@
+# [3.0.0](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v2.2.11...v3.0.0) (2022-03-24)
+
+
+### Bug Fixes
+
+* style to trigger build ([43739c3](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/commit/43739c335c7663faf4c801561bbdb4211ae64501))
+
+
+### Features
+
+* move to dotnet 6.0.3 ([d179820](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/commit/d1798202289cdba8deb695c4a73ea96117064222))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 6.0.3
+
 ## [2.2.11](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v2.2.10...v2.2.11) (2021-05-28)
 
 
