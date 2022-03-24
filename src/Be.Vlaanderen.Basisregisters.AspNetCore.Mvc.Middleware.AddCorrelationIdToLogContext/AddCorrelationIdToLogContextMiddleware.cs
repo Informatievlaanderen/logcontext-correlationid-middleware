@@ -16,7 +16,9 @@ namespace Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware
         public Task Invoke(HttpContext context)
         {
             using (LogContext.PushProperty("CorrelationId", context.TraceIdentifier))
+            {
                 return _next(context);
+            }
         }
     }
 }
