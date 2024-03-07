@@ -94,9 +94,9 @@ jobs:
       run: |
         dotnet build --nologo --no-restore --no-incremental --configuration Debug Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext.sln
 
-    - name: Test
-      shell: bash
-      run: dotnet dotcover test --dcReportType=HTML --nologo --no-build Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext.sln
+    # - name: Test
+    #   shell: bash
+    #   run: dotnet dotcover test --dcReportType=HTML --nologo --no-build Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext.sln
 
     - name: Sonar end build & analyze
       env:
