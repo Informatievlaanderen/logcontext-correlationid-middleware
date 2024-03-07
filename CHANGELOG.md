@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v3.0.0...v4.0.0) (2024-03-07)
+
+
+### Features
+
+* move to dotnet 8.0.2 ([0404208](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/commit/0404208d0200bc17d6632302619e97f4c35d93c0))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 8.0.2
+
 # [3.0.0](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v2.2.11...v3.0.0) (2022-03-24)
 
 

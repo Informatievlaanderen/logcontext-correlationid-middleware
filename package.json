@@ -1,6 +1,6 @@
 {
   "name": "logcontext-correlationid-middleware",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Middleware component which adds the correlation id to the Serilog LogContext.",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",
