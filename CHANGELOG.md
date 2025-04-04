@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v4.0.0...v5.0.0) (2025-04-04)
+
+
+### Code Refactoring
+
+* use renovate and nuget + update pipeline ([065f285](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/commit/065f285186ae22cf5165c094ba55754667e639a0))
+
+
+### BREAKING CHANGES
+
+* update to dotnet 9
+
 # [4.0.0](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v3.0.0...v4.0.0) (2024-03-07)
 
 
