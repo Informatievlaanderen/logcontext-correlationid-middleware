@@ -7,16 +7,16 @@
 
   <PropertyGroup>
     <Version>1.0.0</Version>
-    <PackageId>{NAME}</PackageId>
-    <Title>{NAME}</Title>
+    <PackageId>Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext</PackageId>
+    <Title>Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext</Title>
     <Authors>Basisregisters Vlaanderen</Authors>
     <Owners>Digitaal Vlaanderen</Owners>
     <Copyright>Copyright (c) Digitaal Vlaanderen</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageProjectUrl>{URL}</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Informatievlaanderen/logcontext-correlationid-middleware</PackageProjectUrl>
     <PackageIcon>logo.png</PackageIcon>
-    <Description>{DESCRIPTION}</Description>
+    <Description>Middleware component which adds the correlation id to the Serilog LogContext.</Description>
   </PropertyGroup>
 
   <ItemGroup>
