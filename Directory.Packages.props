@@ -5,7 +5,7 @@
         <CentralPackageVersionOverrideEnabled>false</CentralPackageVersionOverrideEnabled>
     </PropertyGroup>
     <ItemGroup>
-        <PackageVersion Include="Serilog" Version="4.2.0" />
+        <PackageVersion Include="Serilog" Version="4.3.1" />
         <PackageVersion Include="SourceLink.Embed.AllSourceFiles" Version="2.8.3" />
         <PackageVersion Include="SourceLink.Copy.PdbFiles" Version="2.8.3" />
     </ItemGroup>
