@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v5.0.0...v5.1.0) (2026-06-01)
+
+
+### Features
+
+* update packages ([9f863cc](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/commit/9f863cceb13649d2be1894275065ee5cb8b16aeb))
+
 # [5.0.0](https://github.com/informatievlaanderen/logcontext-correlationid-middleware/compare/v4.0.0...v5.0.0) (2025-04-04)
 
 
